@@ -4,7 +4,7 @@ This repository contains the information related to the freshkite picnic
 which happens annually.
 
 The mission of this picnic is to bring together all students and teacher physically
-and collaborate as much as possible through games, communication, eating together
+and collaborate as much as possible through games, communication, eating ,dancing together
 and have fun.
 
 # Schedule
@@ -12,3 +12,4 @@ and have fun.
 1. Meeting a common point - 6 AM
 2. Bus journey start      - 7 AM
 3. Lunch time             - 12 Noon
+4. Tea break              - 3.30 PM
