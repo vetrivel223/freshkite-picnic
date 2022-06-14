@@ -13,5 +13,5 @@ and have fun.
 2. Bus journey start      - 7 AM
 3. Lunch time             - 12 Noon
 4. Tea break              - 4.30 PM
-5. end time               - 5.30 PM
+5. End journey start      - 5.30 PM
 
