@@ -15,6 +15,7 @@ and have fun.
 4. Tea break              - 4.30 PM
 5. Play time              -4.30 PM -8.30 PM
 6. end time               - 8.30 PM
+7. daily meeting          -11.30 AM-1.30 PM
 
 ## Student Stories
 
