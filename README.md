@@ -7,7 +7,7 @@ The mission of this picnic is to bring together all students and teacher physica
 and collaborate as much as possible through games, communication, eating ,dancing together
 and have fun.
 
-# Schedule
+## Schedule
 
 1. Meeting a common point - 6 AM
 2. Bus journey start      - 7 AM
@@ -16,3 +16,6 @@ and have fun.
 5. Play time              -4.30 PM -8.30 PM
 6. end time               - 8.30 PM
 
+## Student Stories
+
+1. ["Enjoyed every moment of picnic" - BRG](./stories/brg.md)
